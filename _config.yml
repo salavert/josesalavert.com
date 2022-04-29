@@ -10,16 +10,8 @@ your-name: Jose Salavert
 your-title: iOS Senior Software Engineer at Telefónica Digital España (Formerly Tuenti)
 
 # Social settings
-500px_url:
-facebook_url:
 github_url: https://github.com/salavert/
-gitlab_url:
-googleplus_url:
-instagram_url:
 linkedin_url: https://www.linkedin.com/in/jose-salavert/
-pinterest_url:
-slack_url:
-twitter_url:
 
 # Build settings
 markdown: kramdown
